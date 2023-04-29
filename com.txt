@@ -1,0 +1,22 @@
+
+-> opcion Cambios -> Almacenar todos los cambios
+-> opcion Commit -> Confirmar todo
+-> Confirmacion
+
+Local
+U -> sin seguimiento
+Opcion: Almacenar todos los cambios
+A -> Inidice añadido
+Opcion: commit -> Confirmar Todo -> Pide un mensaje (Commit Initial)
+M -> Modificado
+---- 
+
+Github
+
+git remote add origin https://github.com/lace04/git_tutorial.git
+Opcion -> Insertar
+
+git status -> ver archivos a subir
+git add . -> alistarlos para subir
+git commit -m "cambio desde cmd"
+git push -u origin master
