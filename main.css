@@ -6,3 +6,10 @@ body {
   line-height: 1.5;
   color: #292b2c;
 }
+
+.container{
+  margin-top: 50px;
+  align-items: center;
+  justify-content: center;
+  color: red;
+}
